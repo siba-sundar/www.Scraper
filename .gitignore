@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+logs/
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+*.env
+
+# Cache
+*.cache
+*.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Ignore compiled and temporary files
+*.swp
+*.swo
+*.bak
+
+# Selenium-related cache (if any)
+selenium_downloads/
+geckodriver.log
+chromedriver.log
